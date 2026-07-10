@@ -11,3 +11,4 @@ downloads/
 # OS/editor cruft
 .DS_Store
 *.swp
+CLAUDE.md
